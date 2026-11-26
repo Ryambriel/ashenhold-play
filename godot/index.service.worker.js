@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795660571|7097064';
+const CACHE_VERSION = '1795674736|6212328';
 /** @type {string} */
 const CACHE_PREFIX = 'Ashenhold-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
